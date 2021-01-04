@@ -17,8 +17,12 @@ Apart from coding, I also maintain a blog - you can find my blogs on my [Medium]
 
 ## &#x1f4c8; GitHub Stats
 
-[![Basil's github stats](https://github-readme-stats.vercel.app/api?username=basilkjose&theme=blue-green)](https://github.com/basilkjose-readme-stats)![1](https://github-readme-stats.vercel.app/api/top-langs/?username=basilkjose&theme=blue-green)
-
+<a href="https://github.com/basilkjose">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilkjose&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
 
 <!-- links to social media icons -->
