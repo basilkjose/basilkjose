@@ -1,7 +1,7 @@
 
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://<blockquote class="imgur-embed-pub" lang="en" data-id="J2NcAbG"><a href="https://imgur.com/J2NcAbG">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>"Header")](https://martinheinz.dev/)
+[![Header](https://imgur.com/J2NcAbG.png "Header")](https://martinheinz.dev/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
