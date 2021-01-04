@@ -60,9 +60,9 @@ Apart from coding, I also maintain a blog - you can find my blogs on my [Medium]
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/basilkjose
+[2]: https://github.com/basilkjose
+[3]: https://www.linkedin.com/in/basil-k-jose-58b579166/
 
 
 <!-- Resources -->
