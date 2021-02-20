@@ -9,7 +9,7 @@ My name is Basil K Jose. I'm from Kerala. You can find me on [![Twitter][1.2]][1
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my blogs on my [https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/JPG/RGB/Medium-Logo-Black-RGB%401x.jpg(https://medium.com/@basilkjose).
+Apart from coding, I also maintain a blog - you can find my blogs on my [Medium](https://medium.com/@basilkjose).
 
 ## 🔧 Technologies & Tools
 
