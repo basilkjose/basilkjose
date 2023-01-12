@@ -3,7 +3,7 @@
 
 [![Header](https://imgur.com/9epLuzK.jpg"Header")](https://www.linkedin.com/in/basil-k-jose-58b579166/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks!
 
 My name is Basil K Jose. I'm from Kerala. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3] .
 
